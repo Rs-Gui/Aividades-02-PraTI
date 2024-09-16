@@ -1,6 +1,6 @@
 Olá tudo bem!
 
-Este arquivo servirá de guia para você conseguir executar este código localmente em sua maquina.
+Este arquivo servirá de guia para você executar este código localmente em sua maquina.
 
 Vamos lá!
 
